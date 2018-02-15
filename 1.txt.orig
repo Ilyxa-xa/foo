@@ -7,27 +7,14 @@
 файл
 редакция1
 2
-programmer_func2(void)
-	{
-	ebala
-	}
-group_func1(void)
-{
-int a=1;
-}
 crap
 shit
-group_func2(void)
-{
-double b=0.3;
-}
 ненужное добавление
 
 программеры тащат главную ветку
+<<<<<<< HEAD
 (тут программер решил сделать
  все по-своему)
- 
- programmer_func1(void)
- {
- bla-bla
- }
+=======
+(тут много всего написали программеры)
+>>>>>>> master
